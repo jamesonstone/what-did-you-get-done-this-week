@@ -1,0 +1,15 @@
++----------------------------------------------------------+
+| What did you get done today?                             |
+|                                                          |
+| {{.DayOfWeek}}, {{.Date}}                                |
+| {{if .ProjectFocus}}Current focus: {{.ProjectFocus}}{{end}}       |
+|                                                          |
+| {{.Quote}}                                               |
+|                                                          |
+| Reply to this email with what you accomplished today.    |
+| Be specific about your wins, no matter how small.       |
+|                                                          |
+| You can also use these commands:                         |
+| • <pause>1 week</pause> - Pause prompts                 |
+| • <project>New Project Name</project> - Update focus    |
++----------------------------------------------------------+

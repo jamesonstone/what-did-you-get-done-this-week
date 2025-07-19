@@ -1,0 +1,15 @@
++----------------------------------------------------------+
+| Welcome to "What Did You Get Done This Week?" ✍️        |
+|                                                          |
+| Before we start sending your daily journaling prompts,   |
+| please reply to this email with the following info:      |
+|                                                          |
+| 1. Name: ___________                                     |
+| 2. Timezone (e.g., America/New_York): ___________        |
+| 3. Preferred daily prompt time (e.g., 16:00): ___________|
+| 4. Project focus tag (optional): ___________             |
+|                                                          |
+| That's it — we'll take care of the rest.                 |
+|                                                          |
+| Your verification code is: {{.VerificationCode}}         |
++----------------------------------------------------------+

@@ -1,0 +1,12 @@
++----------------------------------------------------------+
+| This is What I Did This Week                             |
+|                                                          |
+| Week of {{.WeekStart}} - {{.WeekEnd}}                    |
+|                                                          |
+| {{.SummaryParagraph}}                                    |
+|                                                          |
+| Key Accomplishments:                                     |
+{{range .BulletPoints}}| • {{.}}                                               |
+{{end}}|                                                          |
+| Keep shipping. 🚀                                        |
++----------------------------------------------------------+

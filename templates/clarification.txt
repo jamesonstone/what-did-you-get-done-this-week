@@ -1,0 +1,12 @@
++----------------------------------------------------------+
+| Clarification Needed                                     |
+|                                                          |
+| I couldn't parse your last response properly.           |
+|                                                          |
+| Please reply with:                                       |
+| • Plain text describing what you got done               |
+| • OR use commands like <pause>3 days</pause>            |
+| • OR use <project>Project Name</project>                |
+|                                                          |
+| Your original message: "{{.OriginalMessage}}"           |
++----------------------------------------------------------+
